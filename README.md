@@ -39,6 +39,7 @@ Links for events where I presented about mobile and API topics including:
 
 | Year(s) | Talk | Link(s) |
 |:-:|-|-|
+| 2017 | From Microsoft to Mobile | [GitHub](https://github.com/xamarinfiles/talk-list/tree/main/FromMicrosoftToMobile) |
 | 2018 | Visualizing Xamarin.Forms  | [GitHub](https://github.com/xamarinfiles/talk-visualizing-forms) |
 | 2018 | Next-level Xamarin.Forms | [GitHub](https://github.com/xamarinfiles/talk-next-level-forms) |
 | 2023-2024 | The Secret to Mobile is API Design, App Architecture, and Data Handling | [GitHub](https://github.com/andylech/talk-mobile-secrets) <br /> [Sessionize](https://sessionize.com/s/andy-lech/the-secret-to-mobile-is-api-design-app-architectur/74819) |
