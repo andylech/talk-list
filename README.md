@@ -18,6 +18,7 @@ Links for events where I presented about mobile and API topics including:
 
 | Date | Event | Talk | Link(s) |
 |:-:|-|-|-|
+| 10/4/25 | SQLSaturday Orlando 2025 | What DBAs Don't Know About Mobile Apps and APIs | [Event](https://sqlsaturday.com/2025-10-04-sqlsaturday1122/#schedule) |
 | 8/13/25 | Orlando .NET User Group (ONETUG) | Providing Context to API Decisions with Problem Details | [Meetup](https://www.meetup.com/onetug/events/310476898) |
 | 4/5/25 | Orlando Code Camp 2025 | Build More Responsive and Maintainable Mobile Apps with ReactiveUI | [Event](https://web.archive.org/web/20250502011816/https://www.orlandocodecamp.com/speakers/) |
 | 3/19/25 | Orlando .NET User Group (ONETUG) | Build More Responsive and Maintainable Mobile Apps with ReactiveUI | [Meetup](https://www.meetup.com/onetug/events/306696502) |
@@ -46,9 +47,10 @@ Links for events where I presented about mobile and API topics including:
 
 | Year(s) | Talk | Link(s) |
 |:-:|-|-|
+| 2025 - Present | What DBAs Don't Know About Mobile Apps and APIs | [Sessionize](https://sessionize.com/s/andy-lech/what-dbas-dont-know-about-mobile-apps-and-apis/145960) <br /> [GitHub](https://github.com/andylech/talk-mobile-and-apis-for-dbas) |
 | 2025 - Present | Providing Context to API Decisions with Problem Details | [Sessionize](https://sessionize.com/s/andy-lech/providing-context-to-api-decisions-with-problem-de/101678) |
 | 2024 - Present | Build More Responsive and Maintainable Mobile Apps with ReactiveUI | [Sessionize](https://sessionize.com/s/andy-lech/build-more-responsive-and-maintainable-mobile-apps/101683) |
-| 2023-2024 | The Secret to Mobile is API Design, App Architecture, and Data Handling | [GitHub](https://github.com/andylech/talk-mobile-secrets) <br /> [Sessionize](https://sessionize.com/s/andy-lech/the-secret-to-mobile-is-api-design-app-architectur/74819) |
+| 2023-2024 | The Secret to Mobile is API Design, App Architecture, and Data Handling | [Sessionize](https://sessionize.com/s/andy-lech/the-secret-to-mobile-is-api-design-app-architectur/74819) <br /> [GitHub](https://github.com/andylech/talk-mobile-secrets) |
 | 2018 | Next-level Xamarin.Forms | [GitHub](https://github.com/xamarinfiles/talk-next-level-forms) |
 | 2018 | Visualizing Xamarin.Forms  | [GitHub](https://github.com/xamarinfiles/talk-visualizing-forms) |
 | 2017 | From Microsoft to Mobile | [GitHub](https://github.com/xamarinfiles/talk-list/tree/main/FromMicrosoftToMobile) |
